@@ -60,12 +60,6 @@
   object-fit: cover;
 }
 
-.header__square-pic {
-  background-color: #2f80ed;
-  position: absolute;
-  top: 64px;
-  right: 0;
-}
 
 .logo {
   width: 228px;
@@ -84,6 +78,10 @@
 .header__square-pic {
   height: 568px;
   width: 568px;
+  background-color: #2f80ed;
+  position: absolute;
+  top: 64px;
+  right: 0;
 }
 
 .description {
@@ -348,7 +346,7 @@
   font-weight: 600;
   padding-bottom: 20px;
   margin: 0;
-  padding: 0
+  padding: 0;
 }
 
 .footer__social-icon {
